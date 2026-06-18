@@ -32,3 +32,52 @@ patients = [
     ['1002', ' maria lopez ', 30.0, ['CONSULTATION', 'SURGERY'], [600, 3500]],
     ['1003', ' carlos_gomez ', 52.0, ['EMERGENCY', 'CONSULTATION', 'LAB'], [2000, 500, 300]],
 ]
+```
+
+## 🛠️ Technologies Used
+- Python 3.x
+
+- Jupyter Notebook
+
+- Pandas (optional for advanced cleaning)
+
+## 🚀 Steps Implemented
+1. Data quality review.
+
+2. Cleaning patient names.
+
+3. Splitting names into first and last.
+
+4. Converting ages to integers.
+
+5. Error handling for invalid ages.
+
+6. Sorting patients by ID.
+
+7. Calculating total expenses.
+
+8. Creating patient summary strings.
+
+9. Counting total patients.
+
+10. Cleaning the entire dataset.
+
+11. Create a new dataset
+
+## 📈 Potential KPIs
+- Average patient age.
+
+- Most frequent category of care.
+
+- Average expenses per patient.
+
+- Highest and lowest spending patients.
+
+## 📌 How to Run
+1. Clone this repository.
+
+2. Open the notebook in Jupyter.
+
+3. Run all cells (Cell > Run All).
+
+4. Review the cleaned dataset and KPIs.
